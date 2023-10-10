@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 36C9-0E40
+
+ Directory of C:\Users\amoha\OneDrive\Documents\Baleno\Learn Git
+
+10/10/2023  11:45 AM    <DIR>          .
+10/10/2023  11:45 AM    <DIR>          ..
+10/10/2023  11:45 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,990,563,328 bytes free
